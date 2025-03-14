@@ -90,8 +90,8 @@ Want to improve this chatbot? Contributions are welcome!
 ## 📩 Contact  
 For questions or suggestions, feel free to reach out!  
 
-📧 **Email:** your.email@example.com  
-🔗 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)  
+📧 **Email:** sramesh@seattleu.edu  
+🔗 **LinkedIn:** [Profile](https://linkedin.com/in/suryakailash)  
 
 ⭐ If you find this project useful, please give it a **star** on GitHub! ⭐  
 
@@ -104,5 +104,3 @@ This project is licensed under the **MIT License**.
 
 🚀 **Let's build the future of AI-powered conversations!** 🤖✨  
 ```
-
-Let me know if you need modifications! 🚀
