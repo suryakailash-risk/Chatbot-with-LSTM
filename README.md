@@ -56,7 +56,7 @@ streamlit run chatbot_app.py
 ---
 
 ## 🧠 How It Works  
-1. **Train the Model** – The chatbot learns from the dataset (`Conversation.csv`) using **LSTM layers**.  
+1. **Train the Model** – The chatbot learns from the dataset (`Conversation.csv`) using **LSTM layers**. (https://www.kaggle.com/datasets/kreeshrajani/3k-conversations-dataset-for-chatbot) 
 2. **Generate Responses** – User input is tokenized, processed, and passed through the model for prediction.  
 3. **Deploy the Chatbot** – A web interface is provided for real-time chat interactions.  
 
