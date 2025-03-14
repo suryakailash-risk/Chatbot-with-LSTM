@@ -1,5 +1,4 @@
 
-```markdown
 # 🤖 AI Chatbot using TensorFlow & Streamlit  
 
 This project is an **AI-powered chatbot** designed to interact and respond intelligently to user queries using **Deep Learning**. It utilizes **LSTM-based neural networks**, **Natural Language Processing (NLP)**, and **Streamlit** for an interactive web interface.  
