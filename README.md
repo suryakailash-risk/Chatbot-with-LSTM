@@ -91,7 +91,7 @@ Want to improve this chatbot? Contributions are welcome!
 For questions or suggestions, feel free to reach out!  
 
 📧 **Email:** sramesh@seattleu.edu  
-🔗 **LinkedIn:** [Profile](https://linkedin.com/in/suryakailash)  
+🔗 **LinkedIn:** [Profile](https://www.linkedin.com/in/suryakailash/)  
 
 ⭐ If you find this project useful, please give it a **star** on GitHub! ⭐  
 
